@@ -1,3 +1,3 @@
-Maja Abuhasna
-Maciej Bentkowski
+Maja Abuhasna,
+Maciej Bentkowski,
 Oliwia Kałuzińska
